@@ -1,0 +1,20 @@
+{
+  "id": "sh.transfer.cloudronapp",
+  "title": "Transfer.sh",
+  "author": "Dutchcoders",
+  "description": "file://DESCRIPTION.md",
+  "tagline": "Easy and fast file sharing from the command-line",
+  "version": "1.0.0",
+  "upstreamVersion": "1.4.0",
+  "healthCheckPath": "/",
+  "httpPort": 80,
+  "addons": {
+    "localstorage": {}
+  },
+  "manifestVersion": 2,
+  "website": "https://transfer.sh/",
+  "contactEmail": "jeffrey.clement@gmail.com",
+  "icon": "logo.png",
+  "tags": [ "social", "sharing" ],
+  "mediaLinks": []
+} 
